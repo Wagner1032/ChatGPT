@@ -1,0 +1,35 @@
+{
+  "version": "v0.9.2",
+  "notes": "fix: slash command does not work",
+  "pub_date": "2023-01-15T10:34:49.454Z",
+  "platforms": {
+    "win64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkRlWVZ1WWttc1JGMFJkTjRrRis3L1QrNU9tWlZDNGpXUjQ3elZXS3RsS2VFSTNCZTZhbXdPUHJ3R0J3clpERUd2bVRGbStXTS9oMlpKOVFiNWxMbFNGZVZMZzd3K2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjczNzc4Njc2CWZpbGU6Q2hhdEdQVF8wLjkuMl94NjRfZW4tVVMubXNpLnppcApJblB3ZXFmQm1jZGxDK0VadW4xQzZqUjdoYVR2TzJVVjl5dGsrY0d3T0NVZkwxd1BkMTYxQ3JrVzNIZXB6dVVVNFlHbk1VWUQ5MUhZNG9EVlpRMlRCdz09Cg==",
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v0.9.2/ChatGPT_0.9.2_x64_en-US.msi.zip"
+    },
+    "linux": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkRlWVZ1WWttc1JqdndCdUZGVTczRFhIZ2s5cmEyL21QSzYyRXhWNUVRWGlTSXlUM2FEK0hRSWRUT0FzaXhOWkJhR0dURlNwWlFPU1hNWkFsMHVCWXpZcGFzZTlwRHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjczNzc4ODMwCWZpbGU6Y2hhdC1ncHRfMC45LjJfYW1kNjQuQXBwSW1hZ2UudGFyLmd6ClpqUkE4TkQ0MFVRdGNBWE8xcVo3VmJWSmFXZmxzR0llSUVJeVcvRVdGNlEwMDZ6RmJ0T1pBTFZ1ZjZDbTNxaC9nVDB3N0NUbVdrdE9FUHJ1YzdKU0N3PT0K",
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v0.9.2/chat-gpt_0.9.2_amd64.AppImage.tar.gz"
+    },
+    "darwin": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkRlWVZ1WWttc2VrMnRZZ1dhNklVVlhaaG15VlQyL3dYRllrTEYraWlGYk9KNmRtcEF5TUp5amdZTXMzREd4TFVkc1pTSEZhdFNGVmhBR2ppcUlCTVByK3Uwd2FtK1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjczNzc4ODAyCWZpbGU6Q2hhdEdQVC5hcHAudGFyLmd6ClBuRi95dXJPZ0t0UGdieUV3b3FtSlk0NE9hWksrVFhNNit3R3lJMFVZbndqODAxT1dOdnNCbFFTTXI2UHBzME9OQVlMd3lHQTM2SlBNR2VJLzhiVUR3PT0K",
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v0.9.2/ChatGPT.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkRlWVZ1WWttc2VrMnRZZ1dhNklVVlhaaG15VlQyL3dYRllrTEYraWlGYk9KNmRtcEF5TUp5amdZTXMzREd4TFVkc1pTSEZhdFNGVmhBR2ppcUlCTVByK3Uwd2FtK1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjczNzc4ODAyCWZpbGU6Q2hhdEdQVC5hcHAudGFyLmd6ClBuRi95dXJPZ0t0UGdieUV3b3FtSlk0NE9hWksrVFhNNit3R3lJMFVZbndqODAxT1dOdnNCbFFTTXI2UHBzME9OQVlMd3lHQTM2SlBNR2VJLzhiVUR3PT0K",
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v0.9.2/ChatGPT.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkRlWVZ1WWttc2VrMnRZZ1dhNklVVlhaaG15VlQyL3dYRllrTEYraWlGYk9KNmRtcEF5TUp5amdZTXMzREd4TFVkc1pTSEZhdFNGVmhBR2ppcUlCTVByK3Uwd2FtK1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjczNzc4ODAyCWZpbGU6Q2hhdEdQVC5hcHAudGFyLmd6ClBuRi95dXJPZ0t0UGdieUV3b3FtSlk0NE9hWksrVFhNNit3R3lJMFVZbndqODAxT1dOdnNCbFFTTXI2UHBzME9OQVlMd3lHQTM2SlBNR2VJLzhiVUR3PT0K",
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v0.9.2/ChatGPT.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkRlWVZ1WWttc1JqdndCdUZGVTczRFhIZ2s5cmEyL21QSzYyRXhWNUVRWGlTSXlUM2FEK0hRSWRUT0FzaXhOWkJhR0dURlNwWlFPU1hNWkFsMHVCWXpZcGFzZTlwRHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjczNzc4ODMwCWZpbGU6Y2hhdC1ncHRfMC45LjJfYW1kNjQuQXBwSW1hZ2UudGFyLmd6ClpqUkE4TkQ0MFVRdGNBWE8xcVo3VmJWSmFXZmxzR0llSUVJeVcvRVdGNlEwMDZ6RmJ0T1pBTFZ1ZjZDbTNxaC9nVDB3N0NUbVdrdE9FUHJ1YzdKU0N3PT0K",
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v0.9.2/chat-gpt_0.9.2_amd64.AppImage.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkRlWVZ1WWttc1JGMFJkTjRrRis3L1QrNU9tWlZDNGpXUjQ3elZXS3RsS2VFSTNCZTZhbXdPUHJ3R0J3clpERUd2bVRGbStXTS9oMlpKOVFiNWxMbFNGZVZMZzd3K2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjczNzc4Njc2CWZpbGU6Q2hhdEdQVF8wLjkuMl94NjRfZW4tVVMubXNpLnppcApJblB3ZXFmQm1jZGxDK0VadW4xQzZqUjdoYVR2TzJVVjl5dGsrY0d3T0NVZkwxd1BkMTYxQ3JrVzNIZXB6dVVVNFlHbk1VWUQ5MUhZNG9EVlpRMlRCdz09Cg==",
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v0.9.2/ChatGPT_0.9.2_x64_en-US.msi.zip"
+    }
+  }
+}
